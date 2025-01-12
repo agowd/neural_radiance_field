@@ -25,7 +25,7 @@ The project is divided into two main tasks:
 
 ## Files
 - `neural_rendering.py`: script containing all code.
-- '*.pt': model weights
+- `*.pt`: model weights
 
 ## Usage
 1. Clone this repository.
